@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.header{
+    min-height: 100vh;
+    width: 100%;
+    background-image: url(1.jpg);
+    background-size: cover;
+    padding: 2%;
+}
+.heading{
+    color: #fff;
+    font-size: 70px;
+    padding: 2% 35%;
+    align-items: center;
+    font-style: unset;
+}
+.heading:hover{
+    color: rgb(255, 102, 0);
+
+}
+nav a{
+    color: #fff;
+}
+nav div a{
+    color: black;
+
+}
+.text{
+    color: #000;
+    font-size: 25px;
+    position: absolute;
+    top: 78%;
+    left: 32%;
+    transform: translate(-80%,-20%);
+
+}
+.index.html{
+    color: #000;
+}
